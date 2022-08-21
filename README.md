@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
-    <meta charset = "utf8">
-    <head>
-        <title>Basic Git Commands</title>
-        <h2 align="center">Commands in Git</Command></h2>
+    
+    
+ 
+ <h2 align="center">Commands in Git</Command></h2>
         <p align="center">Hey Folks here are the git commands you need to get started with git basics</p>
-    </head>
-
-        <body>
-        <table align="center">
+    
+    
+   <table align="center">
             <thead>
                 <tr>
                     <th> Command </th>
@@ -193,5 +192,5 @@
                 </tr>
             </tbody>
         </table>
-    </body>
+    
 </html>
