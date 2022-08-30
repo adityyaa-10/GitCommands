@@ -1,0 +1,48 @@
+body{
+    font-family: 'Roboto Slab', serif;
+
+    margin: 0px auto;
+    padding: 0px;
+    background: url(img/thumb-1920-430944.jpg);
+    color: aliceblue;
+}
+.heading{
+
+    color: aliceblue;
+    text-transform: capitalize;
+}
+.heading:hover{
+    color: bisque;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.header{
+    text-align: center;
+}
+
+.header:hover{
+    color: gainsboro;
+    cursor: pointer;
+    text-decoration: underline;
+}
+table{
+    align-items: center;
+    margin: 2px auto;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: left;
+    padding: 1px 40px;
+}
+.left:hover{
+    background-color: blanchedalmond;
+    color: black;
+    cursor: pointer;
+}
+.right:hover{
+    background-color: blanchedalmond;
+    color: black;
+    cursor: pointer;
+}
