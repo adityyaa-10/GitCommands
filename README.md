@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <link rel="stylesheet" href="stylesheet.css">  
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500&display=swap" rel="stylesheet">
 
-    
- <head>
-    <title>Git Commands </title>
+# Git Commands 
     <h2 class="header">Commands in Git</h2>
     <p align="center">Hey Folks here are the git commands you need to get started with git basics</p>
  </head>
